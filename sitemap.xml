@@ -10,17 +10,32 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://theknox.xyz/knox_proyecto_zoom.html</loc>
+  <loc>http://theknox.xyz/knox-proyecto-zoom.html</loc>
   <changefreq>weekly</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://theknox.xyz/knox_te_estan_espiando.html</loc>
+  <loc>http://theknox.xyz/knox-te-estan-espiando.html</loc>
   <changefreq>weekly</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://theknox.xyz/knox_cifrando_la_calle.html</loc>
+  <loc>http://theknox.xyz/knox-cifrando-la-calle.html</loc>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://theknox.xyz/qr-bellas-artes.html</loc>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://theknox.xyz/knox-qr-voto-electronico.html</loc>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://theknox.xyz/knox-aaron-swartz.html</loc>
   <changefreq>weekly</changefreq>
   <priority>1.00</priority>
 </url>
